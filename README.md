@@ -1,10 +1,11 @@
-This service uses much of the official Flask tutorial scaffolding code
+## This service uses much of the official Flask tutorial scaffolding code
 
-Metric file is in flaskr/log.py
+![FLASKR](assets/flaskr.png)
+
+## Metric file is in flaskr/log.py
 
 ![POST](assets/post_metric.png)
 ![GET](assets/get_metric.png)
-
 
 To run locally:
 1. Run run.sh to run flask locally
