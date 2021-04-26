@@ -1,5 +1,14 @@
+This service uses much of the official Flask tutorial scaffolding code
+
+Metric file is in flaskr/log.py
+
+![POST](assets/post_metric.png)
+![GET](assets/get_metric.png)
+
+
+To run locally:
 1. Run run.sh to run flask locally
-2. Make sure you initialize the db by activating environment and exporting env variables and running flask init-db
+2. Make sure you initialize the db by activating environment and export env variables and run flask init-db
 
 Test
 1. pip install '.[test]'
